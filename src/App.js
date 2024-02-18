@@ -1,9 +1,8 @@
 import './assets/css/App.css';
 import Header from './components/header';
-import Biblioteca from './components/library';
-import Book from './components/book';
 import Footer from './components/footer';
 import Library from './components/library';
+
 
 function App() {
   return (
